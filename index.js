@@ -1,0 +1,5 @@
+prompt('Ismingizni Kiriting')
+prompt('Familiyangizni Kiriting')
+prompt('Yoshingizni Kiriting')
+prompt('Yaxshi korgan soxangizni Kiriting')
+prompt('Yashaydigan Tumaningizni kiriting')
